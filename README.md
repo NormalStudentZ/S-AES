@@ -39,7 +39,7 @@
 ![image](https://github.com/user-attachments/assets/094c5931-ffd5-4919-af2a-65fb54e47bfb)
 ![image](https://github.com/user-attachments/assets/808158d8-d967-4751-812b-b4e6acebad0e)
 #### 3.4.3 三重加密
-测试案例：使用密钥10110101100011010110111001010110对明文1011001010101011进行加密，并通过逆向操作验证解密是否成功。
+测试案例：我们选择了32bits密钥Key(K1+K2)的模式，使用密钥10110101100011010110111001010110对明文1011001010101011进行加密，并通过逆向操作验证解密是否成功。
 ![image](https://github.com/user-attachments/assets/5c5a0be4-7d80-4b1c-8d63-b7d689f888dc)
-
+### 3.5 第5关：工作模式
 
