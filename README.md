@@ -32,3 +32,14 @@
 ![image](https://github.com/user-attachments/assets/60f2688c-ea20-4cf3-abff-34d75fc5dd00)
 ### 3.4 第4关：多重加密
 #### 3.4.1 双重加密
+测试案例：使用密钥10110010100101101010010010101001对明文1011010010100001进行加密，并通过逆向操作验证解密是否成功。
+![image](https://github.com/user-attachments/assets/60e51154-654f-4567-982f-ea406560357a)
+#### 3.4.2 中间相遇
+测试案例：使用明文0111011100011100，密文1010101110101100进行测试，以下是部分找到的结果
+![image](https://github.com/user-attachments/assets/094c5931-ffd5-4919-af2a-65fb54e47bfb)
+![image](https://github.com/user-attachments/assets/808158d8-d967-4751-812b-b4e6acebad0e)
+#### 3.4.3 三重加密
+测试案例：使用密钥10110101100011010110111001010110对明文1011001010101011进行加密，并通过逆向操作验证解密是否成功。
+![image](https://github.com/user-attachments/assets/5c5a0be4-7d80-4b1c-8d63-b7d689f888dc)
+
+
