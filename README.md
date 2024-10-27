@@ -18,3 +18,15 @@
 (2)使用48bits(K1+K2+K3)的模式进行三重加解密。
 ### 3.5 第5关：工作模式
 基于S-AES算法，使用密码分组链(CBC)模式对较长的明文消息进行加密。注意初始向量(16 bits) 的生成，并需要加解密双方共享。在CBC模式下进行加密，并尝试对密文分组进行替换或修改，然后进行解密，请对比篡改密文前后的解密结果。
+## 闯关过程
+### 3.1 第1关：基本测试       
+测试案例：使用密钥1001101010001110对明文1101001010110100进行加密，并通过逆向操作验证解密是否成功。
+![image](https://github.com/user-attachments/assets/c07e0a4a-03d3-4a1b-bb4b-e6a440559f5e)
+### 3.2 第2关：交叉测试
+参考案例：
+![a61e433ee299aec246ad61f76522bc3d](https://github.com/user-attachments/assets/8f869eea-c96a-43cc-8dde-73ae1a503646)
+测试案例：
+![image](https://github.com/user-attachments/assets/315992bd-9028-4f5b-8aea-52a0450a7b51)
+### 3.3 第3关：扩展功能
+测试案例：使用密钥1100101101010010对明文fawoi34524WEVB/*@进行加密，并通过逆向操作验证解密是否成功。
+![image](https://github.com/user-attachments/assets/60f2688c-ea20-4cf3-abff-34d75fc5dd00)
