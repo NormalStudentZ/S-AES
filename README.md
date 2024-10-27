@@ -23,10 +23,12 @@
 测试案例：使用密钥1001101010001110对明文1101001010110100进行加密，并通过逆向操作验证解密是否成功。
 ![image](https://github.com/user-attachments/assets/c07e0a4a-03d3-4a1b-bb4b-e6a440559f5e)
 ### 3.2 第2关：交叉测试
-参考案例：
+本次实验中，我们组使用了陈果和崔函旭小组的明文，密钥组进行交叉测试，效果如下：
 ![a61e433ee299aec246ad61f76522bc3d](https://github.com/user-attachments/assets/8f869eea-c96a-43cc-8dde-73ae1a503646)
-测试案例：
+输入相同的明文和密钥，得到了相同的结果：
 ![image](https://github.com/user-attachments/assets/315992bd-9028-4f5b-8aea-52a0450a7b51)
 ### 3.3 第3关：扩展功能
 测试案例：使用密钥1100101101010010对明文fawoi34524WEVB/*@进行加密，并通过逆向操作验证解密是否成功。
 ![image](https://github.com/user-attachments/assets/60f2688c-ea20-4cf3-abff-34d75fc5dd00)
+### 3.4 第4关：多重加密
+#### 3.4.1 双重加密
